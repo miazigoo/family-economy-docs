@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Version 0.7
+
+- Completed the first draft of Tasks vs Contracts.
+- Defined task, contract, habit, and goal distinctions.
+- Added task and contract lifecycles.
+- Added rules for known penalties, reward obligations, reminders, reputation impact, and disputes.
+- Updated Contracts Bible index.
+- Added cross-references from Product Overview and Product Storytelling.
+
 ## Version 0.6
 
 - Completed the first draft of Product Overview.
