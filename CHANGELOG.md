@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Version 0.5
+
+- Added Product Storytelling document with concrete family scenarios.
+- Added examples for tasks, contracts, characters, exchange, treasury, family government, and photo reports.
+- Added product story example rules to the style guide.
+- Updated Product Bible section index.
+
 ## Version 0.4
 
 - Completed the first draft of Core Principles.
