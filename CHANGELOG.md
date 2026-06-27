@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## Version 0.4
+
+- Completed the first draft of Core Principles.
+- Completed the first draft of Product Vision.
+- Updated Manifest metadata and open questions.
+- Updated Vision section index.
+
 ## Version 0.3
 
 - Normalized Markdown formatting across the repository.

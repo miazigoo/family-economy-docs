@@ -6,8 +6,8 @@
 | Version | t1 |
 | Author | Pavel + OpenAI |
 | Audience | Product, Developers, Parents, Investors |
-| Related documents | TBD |
-| Purpose | TBD |
+| Related documents | 0002_Core_Principles_t1.md, 0003_Product_Vision_t1.md |
+| Purpose | Defines the philosophical foundation of Family Economy and explains why the project exists. |
 | Last update | 2026-06-27 |
 
 ## Table of Contents
@@ -127,4 +127,8 @@ Family Economy не заменяет родительское общение. Н
 
 ## Open Questions
 
-- TBD
+- What should be the default product name before the final brand is chosen?
+- How much economic complexity should be available in the first public version?
+- What age groups should the first version target?
+- Which mechanics should stay disabled by default for younger children?
+- How should the product explain to parents that money is only one possible reward?
