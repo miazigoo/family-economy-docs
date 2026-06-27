@@ -244,6 +244,8 @@ Exchange rate can be fixed, scheduled variable or event-based. In all cases it m
 
 The economy model must avoid random gambling-like defaults. The point is not to make the child chase unpredictable gains. The point is to teach value, exchange, timing, request flow and consequences inside safe family boundaries.
 
+Detailed economy rules are defined in [0201_Economy_Overview_t1.md](../02_Economy_Bible/0201_Economy_Overview_t1.md).
+
 ## 14. Contract model
 
 A contract is longer than a task. It has visible conditions, a timeframe, a reward and possibly known penalties. A contract can be proposed by an adult or by a child. This is important because child-proposed contracts teach negotiation and initiative.

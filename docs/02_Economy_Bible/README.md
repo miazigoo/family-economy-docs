@@ -10,7 +10,7 @@
 
 ## Links
 
-- [0201_Economy_Overview_t1.md](0201_Economy_Overview_t1.md)
+- [0201_Economy_Overview_t1.md](0201_Economy_Overview_t1.md) - family economy model, currencies, exchange, treasury, family government, family fund, optional taxes, charity, and safe financial literacy mechanics.
 
 ## Status
 

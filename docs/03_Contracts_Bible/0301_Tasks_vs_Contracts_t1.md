@@ -308,6 +308,8 @@ cancelled
 
 For money, adult pays manually and marks as paid. For internal currency, system may credit ledger. For privileges, adult marks granted. For family activity, adult schedules or marks planned. The important rule is clarity: reward obligation belongs to payer and should be visible until closed.
 
+Detailed rules about currencies, exchange, treasury, and family economy are defined in [0201_Economy_Overview_t1.md](../02_Economy_Bible/0201_Economy_Overview_t1.md).
+
 ## 16. Payment reminders
 
 Child can remind payer. Reminders are part of fairness, not disrespect. If a child completed a contract and the reward is pending, the system should allow a calm reminder.

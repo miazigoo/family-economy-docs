@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Version 0.8
+
+- Completed the first draft of Economy Overview.
+- Defined family economy, currencies, exchange, parent-controlled rates, treasury, family government, family fund, optional taxes, charity, and graph concepts.
+- Added safety rules for non-gambling exchange mechanics and age-appropriate economy complexity.
+- Added cross-references from Product Overview, Product Storytelling, and Tasks vs Contracts.
+- Lightly polished terminology in Product Overview and Tasks vs Contracts.
+
 ## Version 0.7
 
 - Completed the first draft of Tasks vs Contracts.
