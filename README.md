@@ -4,6 +4,19 @@
 
 Этот репозиторий содержит только инфраструктуру документации: структуру разделов, правила оформления, шаблоны и служебные файлы.
 
+## Open Source Documentation
+
+This repository contains open-source documentation for Project Family Economy.
+
+The goal of open documentation is to:
+
+- share product thinking openly;
+- make the philosophy of the product transparent;
+- collect feedback from parents, developers, educators, and investors;
+- document why product decisions were made.
+
+Important: this repository contains documentation only. Application source code may live in a separate private repository and may use a different license.
+
 ## Философия документации
 
 Документация должна быть точной, проверяемой и минимальной.
