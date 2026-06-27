@@ -44,6 +44,8 @@ For formal rules about tasks, contracts, penalties, reward obligations, and remi
 
 For formal rules about currencies, exchange, rates, treasury, family fund, and optional taxes, see [0201_Economy_Overview_t1.md](../02_Economy_Bible/0201_Economy_Overview_t1.md).
 
+For formal rules about characters, personas, tone, responsibility, and safety, see [0401_Characters_Overview_t1.md](../04_Characters/0401_Characters_Overview_t1.md).
+
 ## 2. How to read these examples
 
 Эти примеры являются концептуальными, а не финальным UI. Текстовые блоки имитируют сообщения, которые ребенок или взрослый могут увидеть в приложении. Реальная реализация может отличаться по визуальному стилю, формулировкам, составу экранов и порядку действий.

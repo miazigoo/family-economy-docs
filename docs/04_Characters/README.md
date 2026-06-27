@@ -10,7 +10,7 @@
 
 ## Links
 
-TBD
+- [0401_Characters_Overview_t1.md](0401_Characters_Overview_t1.md) - character/persona model, adult accountability, character economy, tone, reputation, safety, and usage rules.
 
 ## Status
 

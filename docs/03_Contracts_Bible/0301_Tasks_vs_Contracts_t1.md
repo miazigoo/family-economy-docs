@@ -267,6 +267,8 @@ Child cannot receive contracts from unknown adults. There is no public marketpla
 
 Trusted adult contracts are valuable because family is not always only one parent and one child. But every extension of adult access increases safety responsibility. Product should prefer safe defaults.
 
+Detailed rules about characters and personas are defined in [0401_Characters_Overview_t1.md](../04_Characters/0401_Characters_Overview_t1.md).
+
 ## 14. Penalties known before signing
 
 Penalties are allowed only if known before signing. This is non-negotiable. No hidden penalties. No changing penalty after signing without new agreement. Penalties should be limited, understandable, age-appropriate and designed to teach responsibility, not humiliate.

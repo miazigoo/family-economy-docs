@@ -264,6 +264,8 @@ Characters improve emotion and engagement. A boring task can become a mission. A
 
 The real adult must always be stored for audit and safety. If a character creates a task, the system knows which adult stands behind it. This prevents unsafe ambiguity and keeps family trust intact.
 
+Detailed character and persona rules are defined in [0401_Characters_Overview_t1.md](../04_Characters/0401_Characters_Overview_t1.md).
+
 ## 16. Marketplace model
 
 Task marketplace is for short-term tasks inside the family. Contract marketplace is for longer agreements inside the family. Both exist only inside family boundaries. Only trusted adults or approved flows can create offers.

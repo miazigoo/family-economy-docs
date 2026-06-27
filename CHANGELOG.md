@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Version 0.9
+
+- Added the first draft of Characters Overview.
+- Defined character/persona model, adult accountability, child-facing identity, permissions, tone, character economy, currencies, generosity, rarity, and reputation.
+- Added safety and ethics rules for character usage.
+- Added MVP vs future scope for character-related features.
+- Added cross-references from Product Overview, Economy Overview, Product Storytelling, and Tasks vs Contracts.
+- Lightly polished terminology in Economy Overview and Product Overview.
+
 ## Version 0.8
 
 - Completed the first draft of Economy Overview.
