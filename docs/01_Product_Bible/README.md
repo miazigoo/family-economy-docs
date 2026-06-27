@@ -10,7 +10,7 @@
 
 ## Links
 
-- [0101_Product_Overview_t1.md](0101_Product_Overview_t1.md)
+- [0101_Product_Overview_t1.md](0101_Product_Overview_t1.md) - high-level product map, modules, roles, boundaries, and staged feature overview.
 - [0102_Product_Storytelling_t1.md](0102_Product_Storytelling_t1.md) - concrete product stories and examples showing how Family Economy feels in real family scenarios.
 
 ## Status

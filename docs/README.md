@@ -7,7 +7,7 @@
 ## Sections
 
 - [00 Vision](00_Vision/README.md)
-- [01 Product Bible](01_Product_Bible/README.md)
+- [01 Product Bible](01_Product_Bible/README.md) - contains the central product model: what Family Economy is, what modules it contains, how families use it, and how the product should feel.
 - [02 Economy Bible](02_Economy_Bible/README.md)
 - [03 Contracts Bible](03_Contracts_Bible/README.md)
 - [04 Characters](04_Characters/README.md)

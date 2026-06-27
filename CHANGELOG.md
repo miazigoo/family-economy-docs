@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Version 0.6
+
+- Completed the first draft of Product Overview.
+- Added high-level product map, module list, role model, safety boundaries, reward model, and roadmap maturity table.
+- Clarified the relationship between tasks, contracts, characters, economy, treasury, and family government.
+- Lightly polished Product Storytelling terminology.
+- Updated Product Bible section index.
+
 ## Version 0.5
 
 - Added Product Storytelling document with concrete family scenarios.
