@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version 0.3
+
+- Normalized Markdown formatting across the repository.
+- Added the first real draft of the project Manifest.
+- Updated Vision section index.
+
 ## Version 0.2
 
 - Removed IDE files from repository tracking.

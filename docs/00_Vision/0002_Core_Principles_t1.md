@@ -1,20 +1,20 @@
-# Core Principles
+# 0002 Core Principles
 
 | Field | Value |
 | --- | --- |
 | Status | Draft |
 | Version | t1 |
-| Author | TBD |
-| Audience | TBD |
+| Author | Pavel + OpenAI |
+| Audience | Product, Developers, Parents, Investors |
 | Related documents | TBD |
 | Purpose | TBD |
-| Last update | YYYY-MM-DD |
+| Last update | 2026-06-27 |
 
 ## Table of Contents
 
-- Overview
-- Notes
-- Open Questions
+- [Overview](#overview)
+- [Notes](#notes)
+- [Open Questions](#open-questions)
 
 ## Overview
 
