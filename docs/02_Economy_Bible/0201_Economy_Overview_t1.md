@@ -1,4 +1,4 @@
-# 0201 Economy Overview
+# 0201 Обзор семейной экономики
 
 | Field | Value |
 | --- | --- |
@@ -10,39 +10,39 @@
 | Purpose | Defines the family economy model, currencies, exchange, treasury, family government, optional taxes, charity, and safe financial literacy mechanics. |
 | Last update | 2026-06-27 |
 
-## Table of Contents
+## Оглавление
 
-- [1. Economy in one paragraph](#1-economy-in-one-paragraph)
-- [2. Why the economy exists](#2-why-the-economy-exists)
-- [3. What the economy is not](#3-what-the-economy-is-not)
-- [4. Core concepts](#4-core-concepts)
-- [5. Real money vs internal value](#5-real-money-vs-internal-value)
-- [6. Internal currencies](#6-internal-currencies)
-- [7. Character-specific economies](#7-character-specific-economies)
-- [8. Exchange model](#8-exchange-model)
-- [9. Exchange rate types](#9-exchange-rate-types)
-- [10. Child exchange request flow](#10-child-exchange-request-flow)
-- [11. Parent approval and manual fulfillment](#11-parent-approval-and-manual-fulfillment)
-- [12. Ledger and balances](#12-ledger-and-balances)
-- [13. Savings goals](#13-savings-goals)
-- [14. Non-money rewards](#14-non-money-rewards)
-- [15. Treasury](#15-treasury)
-- [16. Family government](#16-family-government)
-- [17. Family fund](#17-family-fund)
-- [18. Optional taxes](#18-optional-taxes)
-- [19. Charity fund](#19-charity-fund)
-- [20. Graphs and financial literacy](#20-graphs-and-financial-literacy)
-- [21. Age-appropriate complexity](#21-age-appropriate-complexity)
-- [22. MVP vs future scope](#22-mvp-vs-future-scope)
-- [23. Product examples](#23-product-examples)
-- [24. Product rules](#24-product-rules)
-- [Open Questions](#open-questions)
+- [1. Экономика одним абзацем](#1-экономика-одним-абзацем)
+- [2. Зачем нужна экономика](#2-зачем-нужна-экономика)
+- [3. Чем экономика не является](#3-чем-экономика-не-является)
+- [4. Основные понятия](#4-основные-понятия)
+- [5. Реальные деньги и внутренняя ценность](#5-реальные-деньги-и-внутренняя-ценность)
+- [6. Внутренние валюты](#6-внутренние-валюты)
+- [7. Экономики персонажей](#7-экономики-персонажей)
+- [8. Модель обмена](#8-модель-обмена)
+- [9. Типы курса обмена](#9-типы-курса-обмена)
+- [10. Запрос обмена от ребенка](#10-запрос-обмена-от-ребенка)
+- [11. Подтверждение родителя и ручное исполнение](#11-подтверждение-родителя-и-ручное-исполнение)
+- [12. Журнал операций и балансы](#12-журнал-операций-и-балансы)
+- [13. Накопительные цели](#13-накопительные-цели)
+- [14. Немонетарные награды](#14-немонетарные-награды)
+- [15. Казначейство](#15-казначейство)
+- [16. Государство семьи](#16-государство-семьи)
+- [17. Семейный фонд](#17-семейный-фонд)
+- [18. Опциональные налоги](#18-опциональные-налоги)
+- [19. Благотворительный фонд](#19-благотворительный-фонд)
+- [20. Графики и финансовая грамотность](#20-графики-и-финансовая-грамотность)
+- [21. Сложность по возрасту](#21-сложность-по-возрасту)
+- [22. MVP и будущие границы](#22-mvp-и-будущие-границы)
+- [23. Продуктовые примеры](#23-продуктовые-примеры)
+- [24. Продуктовые правила](#24-продуктовые-правила)
+- [Открытые вопросы](#открытые-вопросы)
 
-## 1. Economy in one paragraph
+## 1. Экономика одним абзацем
 
 Family Economy использует контролируемый семейный экономический слой, чтобы дети могли понимать ценность, накопление, обмен, обязательства, цели, общие ресурсы и разные типы наград на реальных семейных ситуациях. Деньги являются только одним типом награды. Рядом с ними могут существовать внутренние валюты, привилегии, подарки, семейные события, признание и прогресс к целям. Обмен должен подтверждаться взрослыми, правила должны контролироваться родителями, а вся экономика должна оставаться безопасной, семейной, объяснимой и соответствующей возрасту ребенка.
 
-## 2. Why the economy exists
+## 2. Зачем нужна экономика
 
 Экономика в Family Economy существует не для того, чтобы превратить семью в рынок. Она существует как образовательная система. Детям трудно понять ценность через абстрактные лекции. Слова о деньгах, труде, накоплении и бюджете остаются слишком общими, пока ребенок не видит связь между своим действием, обещанием взрослого, наградой и целью.
 
@@ -56,7 +56,7 @@ Family Economy использует контролируемый семейны�
 
 Семейный фонд учит видеть общие ресурсы. Он помогает объяснить, что ресурсы могут быть не только личными, но и общими. Благотворительность помогает понять социальную ценность: часть ресурсов может идти на благотворительную цель, если семья решила это осознанно. Экономика должна поддерживать разговор, а не заменять его. Взрослые все равно объясняют правила, смысл и границы.
 
-## 3. What the economy is not
+## 3. Чем экономика не является
 
 Экономика Family Economy не является банком. В MVP не должно быть банковского API, автоматических банковских переводов, реальных банковских счетов или зависимости от финансовой инфраструктуры. Реальные переводы происходят вручную вне приложения, а приложение отслеживает обязательства и их исполнение.
 
@@ -70,7 +70,7 @@ Family Economy использует контролируемый семейны�
 
 Это не способ давить на детей. Графики, балансы, курсы, фонды и налоги не должны превращаться в тревожный интерфейс. Для младших детей сложные элементы должны быть выключены или скрыты. В MVP нет автоматической системы реальных денежных переводов: приложение отслеживает обязательства и их исполнение, а взрослые вручную выполняют реальные переводы при необходимости.
 
-## 4. Core concepts
+## 4. Основные понятия
 
 Currency — единица ценности внутри семьи. Это могут быть рубли как реальная награда, снежинки как внутренняя валюта, энергоядра для активности или кристаллы для привилегий.
 
@@ -96,7 +96,7 @@ Charity fund — optional goal for social value. It can represent a family-contr
 
 Goal — цель, к которой направляются награды или накопления: bicycle, book, game, family trip, animal shelter food.
 
-## 5. Real money vs internal value
+## 5. Реальные деньги и внутренняя ценность
 
 Real money can be tracked as obligation. Если взрослый обещает 100 ₽ за задачу, приложение фиксирует reward obligation. После выполнения взрослый переводит деньги вручную вне приложения или выдает наличными, затем marks fulfilled in Parent App.
 
@@ -108,7 +108,7 @@ Not every internal currency must convert to money. Some currencies can be exchan
 
 This distinction protects the product from reducing everything to cash. A family can choose that rubles are rare, снежинки are exchangeable, кристаллы are only for privileges, and recognition is used for habits. The product should support this variety without implying that every point is money.
 
-## 6. Internal currencies
+## 6. Внутренние валюты
 
 A family can define currencies. Each currency should have name, icon, meaning and rules. Name helps child understand the story. Icon makes the currency visible. Meaning explains why it exists. Rules define how it is earned, spent, exchanged or disabled.
 
@@ -131,7 +131,7 @@ Used for activity missions
 Can be spent on privileges, not exchanged for rubles
 ```
 
-## 7. Character-specific economies
+## 7. Экономики персонажей
 
 Each character may have its own economy. This does not mean each character is a real independent payer. Character is presentation layer. The real adult remains responsible and must be stored for audit and safety.
 
@@ -147,7 +147,7 @@ Detailed character rules are defined in [0401_Characters_Overview_t1.md](../04_C
 
 Character-specific economy should also remain understandable to parents. If Santa gives снежинки, Robot gives энергоядра and Wizard gives кристаллы, the parent must still see the whole picture in one place. A playful layer is useful only while it makes motivation clearer. If the family cannot understand which rewards are real money, which are internal value and which are non-money privileges, the economy has become too complex and should be simplified.
 
-## 8. Exchange model
+## 8. Модель обмена
 
 Exchange converts one value into another. It can convert internal currency to rubles, internal currency to privilege, internal currency to goal contribution or internal currency to family activity. Exchange should teach rate, timing and choice.
 
@@ -159,9 +159,9 @@ Exchange is not automatic bank transfer in MVP. The app can show expected result
 
 A good exchange model gives the child a sense of agency while preserving family control. The child chooses amount, sees result and sends request. The adult confirms whether this exchange fits current family rules and obligations.
 
-## 9. Exchange rate types
+## 9. Типы курса обмена
 
-### Fixed rate
+### Фиксированный курс
 
 Fixed rate is the simplest model. It is stable and easy to explain.
 
@@ -171,7 +171,7 @@ Fixed rate is the simplest model. It is stable and easy to explain.
 
 This works well for younger children and early versions. The child can calculate expected result without anxiety. Fixed rate should be the default if exchange is enabled early.
 
-### Scheduled variable rate
+### Плановый переменный курс
 
 Scheduled variable rate changes by a parent-configured interval and within parent-defined limits.
 
@@ -182,7 +182,7 @@ Scheduled variable rate changes by a parent-configured interval and within paren
 
 Important: this must use parent-controlled deterministic or scheduled model, not casino-like randomness. The child should understand when and why rate changes. Scheduled changes can teach that value changes over time, but they must not push the child to compulsively check the app.
 
-### Event-based rate
+### Событийный курс
 
 Event-based rate changes because the family defines a clear reason.
 
@@ -199,7 +199,7 @@ Event-based rate changes because the family defines a clear reason.
 
 Event-based changes are easier to understand because they have story and context. Parent creates reason. Child learns why value changes. This is safer than unexplained randomness.
 
-## 10. Child exchange request flow
+## 10. Запрос обмена от ребенка
 
 ```text
 Child opens exchange
@@ -219,7 +219,7 @@ The request flow teaches asking and waiting. It shows that value exchange has pr
 
 If adult rejects, the product should support respectful explanation. Rejection should not feel arbitrary. If adult discusses, the product can keep the request pending or cancelled with reason. The system should preserve clarity without turning the exchange into conflict.
 
-## 11. Parent approval and manual fulfillment
+## 11. Подтверждение родителя и ручное исполнение
 
 Adult approves exchange. Approval means the family accepts the exchange under current rules. If the result is real money, the adult may transfer money manually in bank app or give cash. Then adult marks fulfilled in Parent App.
 
@@ -241,7 +241,7 @@ expired
 
 App tracks status. This protects trust. If child sent request and adult approved, the result should not disappear. If adult has not fulfilled yet, it remains pending until closed.
 
-## 12. Ledger and balances
+## 12. Журнал операций и балансы
 
 Ledger is event history. Balances are calculated from ledger. This is a product-level rule, not a database schema. The reason is trust: if balance changes, family should know why.
 
@@ -264,7 +264,7 @@ expired
 
 Silent changes are dangerous. If a parent adjusts 100 снежинок down to 50, the child should not simply see a lower balance without reason. The product should show transparent history appropriate to age.
 
-## 13. Savings goals
+## 13. Накопительные цели
 
 Goals connect rewards to meaning. A child may have a goal like bicycle, book, game, family trip or animal shelter food. Currency or money can go to goal. The child sees progress and understands that repeated effort can accumulate.
 
@@ -276,7 +276,7 @@ Goals help delayed gratification. Instead of spending everything immediately, th
 
 Goals should remain understandable. Younger children need visual progress. Older children can see more details: contributions, dates, exchange rates and pending obligations.
 
-## 14. Non-money rewards
+## 14. Немонетарные награды
 
 Non-money rewards include privilege, gift, extra screen/game time, family event, recognition, collectibles or achievements. They are essential because many families do not want money for chores or habits.
 
@@ -286,7 +286,7 @@ Non-money rewards make the product usable for families with different values. On
 
 Not all rewards need exchange. Some are directly granted after approval. Some are bought with internal currency. Some are connected to goals. Product should not force every reward into a money conversion.
 
-## 15. Treasury
+## 15. Казначейство
 
 Treasury is parent-facing financial and obligation overview. It shows pending obligations, fulfilled rewards, who owes what, monthly totals and currency totals. It helps adults see promises, not shame anyone.
 
@@ -309,7 +309,7 @@ Treasury can show that father paid 2400 ₽ this month, grandmother has 100 ₽ 
 
 Treasury should not become a public scoreboard. It is primarily for adults. Child-facing economy should focus on personal goals, pending rewards and understandable progress. Adult totals and family budgeting can stay in Parent App.
 
-## 16. Family government
+## 16. Государство семьи
 
 Family government is optional educational layer. It can include family rules, shared resources, family fund, taxes, charity and collective goals. It exists to teach that resources can be personal and shared.
 
@@ -319,7 +319,7 @@ This layer can be powerful for older children and teens. It can teach shared bud
 
 Family government should remain family-controlled. It is not public governance, not external marketplace and not social network.
 
-## 17. Family fund
+## 17. Семейный фонд
 
 Family fund is shared fund for family goals. It can receive contributions from exchanges or manual adult contributions. It can fund family activities and help child learn common budget.
 
@@ -339,7 +339,7 @@ Family fund can make shared resources visible. If the family decides that part o
 
 Adults can contribute manually. Children may contribute voluntarily if family settings allow it. Optional rules can send small visible percentages to the fund, but never hidden deductions.
 
-## 18. Optional taxes
+## 18. Опциональные налоги
 
 Optional taxes are educational, parent-controlled and never hidden. The word "tax" may be too heavy for younger children, so future UX may choose softer wording, but the product rule remains: visible percent, visible purpose, visible destination.
 
@@ -356,7 +356,7 @@ Taxes should not feel like surprise punishment. No hidden deductions. No sudden 
 
 If the family uses optional taxes, the product should frame them as shared resource learning, not as penalty for earning.
 
-## 19. Charity fund
+## 19. Благотворительный фонд
 
 Charity fund is optional charity goal. It teaches social value and shared care beyond personal rewards. It can be family-controlled and connected to family decisions.
 
@@ -376,7 +376,7 @@ No external donation processing in MVP. If real donation happens, parent handles
 
 Charity should not be forced. Voluntary contributions may be more educational than automatic ones for some families. If an automatic percentage exists, it must be visible and parent-controlled.
 
-## 20. Graphs and financial literacy
+## 20. Графики и финансовая грамотность
 
 Graphs can help children understand history and progress. Child can see currency history, exchange rate graph, goal progress, earned vs spent, pending rewards and simple visual explanations.
 
@@ -386,9 +386,9 @@ Exchange rate graph can show scheduled or event-based changes. It should avoid c
 
 Earned vs spent can teach budgeting. Pending rewards can teach obligations. Goal progress can teach saving. The product should explain graphs in plain language, not financial jargon.
 
-## 21. Age-appropriate complexity
+## 21. Сложность по возрасту
 
-### Simple mode
+### Простой режим
 
 For younger children:
 
@@ -403,7 +403,7 @@ Simple mode should feel complete, not limited. A younger child can understand ta
 
 The main product responsibility in Simple mode is restraint. The app should not tease younger children with locked exchanges, hidden rates or advanced graphs they cannot understand. If a module is disabled, the child experience should still feel coherent: do a task, receive a visible reward, move toward a goal, and hear a clear explanation from the adult.
 
-### Learning mode
+### Обучающий режим
 
 For middle age:
 
@@ -415,7 +415,7 @@ For middle age:
 
 Learning mode introduces financial literacy carefully. The child can request exchange, see fixed rate and understand progress. Parent approval remains required.
 
-### Advanced mode
+### Продвинутый режим
 
 For older children and teens:
 
@@ -430,7 +430,7 @@ Advanced mode is where family economy becomes a richer educational system. It sh
 
 Age-appropriate complexity is not only a UX setting. It is a safety rule. A mechanic that is educational for a teenager can be confusing or unfair for a younger child. The same family may need different settings for different children, and the product should allow adults to keep the economy simple until the child is ready for more detail.
 
-## 22. MVP vs future scope
+## 22. MVP и будущие границы
 
 | Feature | MVP | v1 | v2 | v3+ | Notes |
 | --- | --- | --- | --- | --- | --- |
@@ -453,9 +453,9 @@ Age-appropriate complexity is not only a UX setting. It is a safety rule. A mech
 
 MVP should focus on ledger, manual tracking and simple goals. v1 may add basic internal currencies if they do not overload the product. v2 is the natural place for exchange, treasury, family fund and controlled rate models. v3+ can include advanced graphs and integrations only after safety and value are proven.
 
-## 23. Product examples
+## 23. Продуктовые примеры
 
-### Snowflake exchange
+### Обмен снежинок
 
 ```text
 📈 Биржа
@@ -472,7 +472,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 Отправить запрос?
 ```
 
-### Crystal privilege
+### Привилегия за кристаллы
 
 ```text
 🧙 Кристаллы
@@ -485,7 +485,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 🎬 семейный кино-вечер
 ```
 
-### Event rate
+### Событийный курс
 
 ```text
 🎄 Новогоднее событие
@@ -497,7 +497,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 10 снежинок = 1 ₽
 ```
 
-### Treasury
+### Казначейство
 
 ```text
 🏛 Казначейство
@@ -512,7 +512,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 240 снежинок ожидают обмена
 ```
 
-### Family fund
+### Семейный фонд
 
 ```text
 🏛 Семейный фонд
@@ -527,7 +527,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 850 ₽
 ```
 
-### Charity
+### Благотворительность
 
 ```text
 ❤️ Фонд помощи животным
@@ -539,7 +539,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 320 ₽
 ```
 
-### Manual fulfillment
+### Ручное исполнение
 
 ```text
 Обмен одобрен
@@ -551,7 +551,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 перевести вручную и отметить как выполнено.
 ```
 
-## 24. Product rules
+## 24. Продуктовые правила
 
 - Economy is family-only.
 - Публичного рынка нет.
@@ -569,7 +569,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 - Manual adjustments require reason.
 - Economy modules can be disabled.
 
-## Open Questions
+## Открытые вопросы
 
 - Should MVP include any internal currency or only money/manual rewards?
 - Should fixed exchange be available before v2?

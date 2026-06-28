@@ -1,4 +1,4 @@
-# 0902 Russian-first Documentation Rules
+# 0902 Правила документации на русском языке
 
 | Field | Value |
 | --- | --- |
@@ -10,35 +10,35 @@
 | Purpose | Defines Russian-first writing rules for all future documentation and explains how translations and documentation website should be handled later. |
 | Last update | 2026-06-27 |
 
-## Table of Contents
+## Оглавление
 
-- [1. Main rule](#1-main-rule)
-- [2. Why Russian first](#2-why-russian-first)
-- [3. What can remain in English](#3-what-can-remain-in-english)
-- [4. What should be translated to Russian](#4-what-should-be-translated-to-russian)
-- [5. Headings](#5-headings)
-- [6. Metadata](#6-metadata)
-- [7. Examples and UI text](#7-examples-and-ui-text)
-- [8. Product terms](#8-product-terms)
-- [9. Technical terms](#9-technical-terms)
-- [10. Future translations](#10-future-translations)
-- [11. Future documentation website](#11-future-documentation-website)
-- [12. Rules for Codex](#12-rules-for-codex)
-- [Open Questions](#open-questions)
+- [1. Основное правило](#1-основное-правило)
+- [2. Почему сначала русский](#2-почему-сначала-русский)
+- [3. Что может оставаться на английском](#3-что-может-оставаться-на-английском)
+- [4. Что нужно переводить на русский](#4-что-нужно-переводить-на-русский)
+- [5. Заголовки](#5-заголовки)
+- [6. Метаданные](#6-метаданные)
+- [7. Примеры и UI-текст](#7-примеры-и-ui-текст)
+- [8. Продуктовые термины](#8-продуктовые-термины)
+- [9. Технические термины](#9-технические-термины)
+- [10. Будущие переводы](#10-будущие-переводы)
+- [11. Будущий сайт документации](#11-будущий-сайт-документации)
+- [12. Правила для Codex](#12-правила-для-codex)
+- [Открытые вопросы](#открытые-вопросы)
 
-## 1. Main rule
+## 1. Основное правило
 
 Основной язык документации — русский.
 
 Документация должна читаться без знания английского языка, кроме устойчивых технических названий и продуктовых labels, которые понятнее оставить как есть.
 
-## 2. Why Russian first
+## 2. Почему сначала русский
 
 Павел работает и продумывает продукт на русском языке. Документация используется для продуктовых решений, задач Codex, архитектуры и будущей разработки. Поэтому ясность на русском важнее, чем внешний стиль, похожий на англоязычный startup-документ.
 
 Чем яснее исходный русский текст, тем проще будет переводить его позже. Перевод должен идти от понятного источника, а не от смеси английских и русских формулировок.
 
-## 3. What can remain in English
+## 3. Что может оставаться на английском
 
 Можно оставлять на английском устойчивые технические или проектные labels:
 
@@ -59,7 +59,7 @@
 - имена файлов;
 - commit messages.
 
-## 4. What should be translated to Russian
+## 4. Что нужно переводить на русский
 
 | Avoid | Prefer |
 | --- | --- |
@@ -92,7 +92,7 @@
 | payer | плательщик |
 | fulfilled | исполнено |
 
-## 5. Headings
+## 5. Заголовки
 
 Новые документы должны предпочитать русские заголовки разделов.
 
@@ -110,9 +110,9 @@
 ## 1. Character in one paragraph
 ```
 
-## 6. Metadata
+## 6. Метаданные
 
-Metadata keys могут оставаться на английском для единообразия:
+Ключи метаданных могут оставаться на английском для единообразия:
 
 ```md
 Status
@@ -126,7 +126,7 @@ Last update
 
 Значения metadata должны быть понятными. `Purpose` в новых документах может быть на русском.
 
-## 7. Examples and UI text
+## 7. Примеры и UI-текст
 
 Все пользовательские примеры должны быть на русском.
 
@@ -142,7 +142,7 @@ Last update
 
 Не нужно смешивать языки в UI-примерах, кроме технических labels.
 
-## 8. Product terms
+## 8. Продуктовые термины
 
 - `Family Economy` — рабочее название проекта.
 - `Parent App` — приложение для родителей.
@@ -157,7 +157,7 @@ Last update
 - `Семейный фонд` — общий фонд семьи.
 - `Государство семьи` — опциональный обучающий слой правил.
 
-## 9. Technical terms
+## 9. Технические термины
 
 Технические термины могут оставаться английскими, если они общеприняты и так понятнее:
 
@@ -175,7 +175,7 @@ Last update
 
 В product-facing документах не нужно злоупотреблять английским, если есть понятный русский термин.
 
-## 10. Future translations
+## 10. Будущие переводы
 
 Текущий source of truth — русская документация. Английский перевод может быть добавлен позже. Перевод не должен управлять продуктовыми решениями.
 
@@ -190,7 +190,7 @@ docs/en/...
 
 Эту структуру сейчас создавать не нужно.
 
-## 11. Future documentation website
+## 11. Будущий сайт документации
 
 Документационный сайт планируется после MVP-приложений. Сайт может поддерживать выбор языка и разные представления для родителей, инвесторов, разработчиков и product-команды.
 
@@ -205,7 +205,7 @@ docs source
 → parent/investor/developer views
 ```
 
-## 12. Rules for Codex
+## 12. Правила для Codex
 
 - Write new documentation in Russian by default.
 - Do not use English headings unless explicitly instructed.
@@ -216,7 +216,7 @@ docs source
 - Do not create multilingual site structure unless explicitly instructed.
 - Do not translate docs automatically unless asked.
 
-## Open Questions
+## Открытые вопросы
 
 - Should future file names remain English for GitHub readability?
 - Should headings in existing documents be translated to Russian in a separate cleanup pass?

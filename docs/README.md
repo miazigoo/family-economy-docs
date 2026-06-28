@@ -25,13 +25,13 @@
 - [16 ADR](16_ADR/README.md)
 - [99 Frozen Ideas](99_Frozen_Ideas/README.md)
 
-## Language
+## Язык
 
-The primary language of the documentation is Russian.
+Основной язык документации — русский.
 
-Translations and a multilingual documentation website may be added later, after MVP applications are created.
+Переводы и многоязычный сайт документации могут появиться позже, после создания MVP-приложений.
 
-The current source of truth is the Russian documentation.
+Текущий источник истины — русская документация.
 
 ## Status
 

@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## Version 0.11
+
+- Normalized key documentation headings and tables of contents toward Russian-first style.
+- Updated root README, docs README, Style Guide, and Codex rules with Russian language policy wording.
+- Improved terminology glossary with additional product terms.
+- Clarified that the multilingual documentation website is a post-MVP frozen idea.
+- Reduced mixed Russian/English product wording in existing key documents.
+
 ## Version 0.10
 
 - Added Russian-first documentation rules.

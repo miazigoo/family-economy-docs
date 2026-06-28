@@ -1,4 +1,4 @@
-# 0901 Codex Rules
+# 0901 Правила Codex
 
 | Field | Value |
 | --- | --- |
@@ -10,19 +10,19 @@
 | Purpose | Defines baseline rules for Codex work in the documentation repository. |
 | Last update | 2026-06-27 |
 
-## Table of Contents
+## Оглавление
 
-- [Russian-first documentation](#russian-first-documentation)
-- [Open Questions](#open-questions)
+- [Документация на русском языке](#документация-на-русском-языке)
+- [Открытые вопросы](#открытые-вопросы)
 
-## Russian-first documentation
+## Документация на русском языке
 
-- Documentation must be written in Russian by default.
-- Product explanations must be understandable without knowing English.
-- English technical labels are allowed only when they are stable project or technology terms.
-- Use the terminology glossary before inventing a term.
-- Do not create translations or website documentation structure unless explicitly instructed.
+- Документация по умолчанию пишется на русском языке.
+- Продуктовые объяснения должны быть понятны без знания английского.
+- Английские технические labels допустимы только для устойчивых проектных или технологических терминов.
+- Перед вводом нового термина нужно проверить глоссарий.
+- Не создавать переводы или структуру сайта документации без отдельной задачи.
 
-## Open Questions
+## Открытые вопросы
 
 - TBD

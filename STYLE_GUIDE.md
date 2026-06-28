@@ -107,21 +107,21 @@ Rules:
 - examples must not make exchange rates feel like gambling;
 - examples should be reusable for marketing, onboarding, and product specs.
 
-## Language Policy
+## Языковая политика
 
-The source documentation language is Russian.
+Исходный язык документации — русский.
 
-Rules:
+Правила:
 
-- Write product documentation in Russian.
-- Use clear Russian terms from the glossary.
-- Avoid mixed Russian/English sentences.
-- Keep stable technical labels when they are clearer as-is.
-- User-facing examples must be in Russian.
-- Future translations should be based on approved Russian documents.
-- Do not create multilingual docs or documentation website structure until explicitly requested.
+- Писать продуктовую документацию на русском.
+- Использовать понятные русские термины из глоссария.
+- Избегать смешанных русско-английских предложений.
+- Оставлять устойчивые технические labels там, где они понятнее как есть.
+- Пользовательские примеры должны быть на русском.
+- Будущие переводы должны основываться на утвержденных русских документах.
+- Не создавать многоязычную структуру документации или сайт документации без отдельной задачи.
 
-Related documents:
+Связанные документы:
 
 - [0902_Russian_First_Documentation_Rules_t1.md](docs/09_Codex_Bible/0902_Russian_First_Documentation_Rules_t1.md)
 - [1401_Terminology_Glossary_t1.md](docs/14_Research/1401_Terminology_Glossary_t1.md)
