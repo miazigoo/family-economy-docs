@@ -488,10 +488,10 @@ MVP should focus on simple tasks, optional proof, adult approval, reward obligat
 - Penalty must be known before signing.
 - Penalty cannot change silently.
 - Reward obligation must be visible.
-- Payer must be explicit.
+- Плательщик должен быть явным.
 - Trusted adult permissions are required.
 - No unknown adult can create task or contract.
-- No public marketplace.
+- Публичного рынка нет.
 - AI cannot approve or reject final result.
 - Cancellation should record reason.
 - Child should have age-appropriate explanations.

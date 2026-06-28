@@ -17,6 +17,13 @@ The goal of open documentation is to:
 
 Important: this repository contains documentation only. Application source code may live in a separate private repository and may use a different license.
 
+## Language
+
+The documentation is Russian-first.
+
+The current source of truth is the Russian documentation.  
+Translations and a documentation website with language selection may be added later, after MVP applications are created.
+
 ## Философия документации
 
 Документация должна быть точной, проверяемой и минимальной.

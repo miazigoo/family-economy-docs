@@ -10,7 +10,7 @@
 
 ## Links
 
-TBD
+- [1401_Terminology_Glossary_t1.md](1401_Terminology_Glossary_t1.md) - preferred Russian terminology for product and technical writing.
 
 ## Status
 

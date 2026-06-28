@@ -554,7 +554,7 @@ MVP should focus on ledger, manual tracking and simple goals. v1 may add basic i
 ## 24. Product rules
 
 - Economy is family-only.
-- No public market.
+- Публичного рынка нет.
 - No automatic bank transfers in MVP.
 - Exchange requires adult approval.
 - Rates are parent-controlled.

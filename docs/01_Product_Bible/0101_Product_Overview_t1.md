@@ -222,7 +222,7 @@ Child photos cannot be stored forever. Photo reports must support temporary stor
 
 ## 11. Safety model at product level
 
-Safety starts at the product level before technical architecture. A child is linked to a family only through parent-approved pairing. Adults must be invited or approved. Trusted adult access must be explicit, limited and visible to the family.
+Safety starts at the product level before technical architecture. A child is linked to a family only through parent-approved pairing. Adults must be invited or approved. Доступ доверенного взрослого должен быть явным, ограниченным и видимым для семьи.
 
 Actions should be auditable. If a task is created by Santa Claus, the system still stores which adult created it. If a reward is promised, approved or marked paid, the system should keep a clear history. This supports trust without exposing children to external users.
 

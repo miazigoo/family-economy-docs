@@ -106,3 +106,22 @@ Rules:
 - examples must not make AI the final judge;
 - examples must not make exchange rates feel like gambling;
 - examples should be reusable for marketing, onboarding, and product specs.
+
+## Language Policy
+
+The source documentation language is Russian.
+
+Rules:
+
+- Write product documentation in Russian.
+- Use clear Russian terms from the glossary.
+- Avoid mixed Russian/English sentences.
+- Keep stable technical labels when they are clearer as-is.
+- User-facing examples must be in Russian.
+- Future translations should be based on approved Russian documents.
+- Do not create multilingual docs or documentation website structure until explicitly requested.
+
+Related documents:
+
+- [0902_Russian_First_Documentation_Rules_t1.md](docs/09_Codex_Bible/0902_Russian_First_Documentation_Rules_t1.md)
+- [1401_Terminology_Glossary_t1.md](docs/14_Research/1401_Terminology_Glossary_t1.md)

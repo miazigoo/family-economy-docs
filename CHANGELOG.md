@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Version 0.10
+
+- Added Russian-first documentation rules.
+- Added terminology glossary for product and technical writing.
+- Documented future multilingual documentation website as a frozen/post-MVP idea.
+- Updated Style Guide, Codex rules, root README, and docs README with language policy.
+- Added links to new documentation policy and glossary documents.
+- Lightly cleaned mixed Russian/English terminology in recent product documents.
+
 ## Version 0.9
 
 - Added the first draft of Characters Overview.

@@ -40,17 +40,19 @@
 
 ## 1. Character in one paragraph
 
-Character is a family-controlled presentation layer that lets an approved adult present a task, contract, reward, or message in a specific tone and style while the system still stores the real adult behind the action. Characters add emotion, story, warmth and play to family agreements, but they do not remove adult responsibility. They are family-only, not public identities, not separate real users and not a way for unknown adults to reach children. A child may see Santa Claus, Robot or Wizard, but the product must still know which adult created the task, who promised the reward, who pays, and who is accountable.
+Персонаж — это контролируемый семьей слой представления, через который одобренный взрослый может показать ребенку задачу, контракт, награду или сообщение в определенном тоне и стиле, при этом система сохраняет реального взрослого автора действия. Персонажи добавляют эмоцию, историю, тепло и игру в семейные договоренности, но не снимают ответственность со взрослых. Они существуют только внутри семьи, не являются публичными аккаунтами и не могут использоваться неизвестными взрослыми для контакта с ребенком. Ребенок может видеть Деда Мороза, Робота или Волшебника, но продукт должен знать, какой взрослый создал задачу, кто пообещал награду, кто является плательщиком и кто отвечает за исполнение обещания.
+
+Главная идея персонажей — сделать семейные договоренности более живыми, не делая их менее честными. Если персонаж делает задачу теплее и понятнее, он помогает продукту. Если персонаж скрывает реальные условия, плательщика или ответственность взрослого, он нарушает принципы Family Economy.
 
 ## 2. Why characters exist
 
-Children respond to stories. A simple request can feel very different depending on how it is framed. "Clean your room" can sound like a command. A mission from a character can make the same action warmer, clearer and more memorable. The product should not hide the real condition, but it can make the experience feel less dry.
+Дети хорошо реагируют на истории. Обычная просьба может восприниматься по-разному в зависимости от формы. Фраза "убери комнату" звучит как бытовая команда. Та же просьба, поданная как миссия от Деда Мороза или Робота, может ощущаться мягче, интереснее и понятнее. Продукт не должен скрывать само действие, но может дать взрослому способ выбрать тон, который лучше подходит ребенку и ситуации.
 
-Characters make repeated habits less boring. Walking 5000 steps can be a health task. From Robot X-17 it can become a short mission. Reading 10 pages can be a line in a checklist. From Wizard it can become part of a learning journey. This matters because motivation is not only about reward amount. It is also about meaning, tone and emotional context.
+Персонажи помогают повторяемым привычкам не становиться скучными. Пройти 5000 шагов можно показать как сухую задачу. Но если это миссия от Робота X-17, ребенок может воспринимать ее как вызов. Прочитать 10 страниц можно показать как пункт списка. Но если это задание от Волшебника, оно получает обучающий и немного сказочный оттенок. Важно, что смысл действия не меняется: меняется подача.
 
-Characters let parents choose tone. Sometimes a direct adult request is best. Sometimes a playful persona helps the child engage. Sometimes a rare character creates a special moment. Sometimes a structured character makes a habit feel clear and calm.
+Персонажи дают родителям выбор тона. Иногда лучше говорить прямо: "Помоги мне помыть машину". Иногда лучше добавить игровой слой: "Робот активировал миссию движения". Иногда редкий персонаж помогает сделать событие особенным. Иногда структурный персонаж делает привычку спокойной и предсказуемой.
 
-Example:
+Пример:
 
 ```text
 Папа может попросить напрямую:
@@ -60,41 +62,37 @@ Example:
 "🎅 Дед Мороз заметил, что ты хорошо себя вел. Есть особое задание!"
 ```
 
-Characters support play without making the product unsafe. They help the product become emotionally memorable for children and easier to explain to parents, investors and developers. But the story must never erase accountability. If the product becomes warmer but less honest, the character model is wrong.
+Персонажи важны не только как украшение. Они переводят намерение взрослого на язык, который ребенку легче принять. Взрослый уже хочет попросить о помощи, поддержать привычку, предложить контракт, признать усилие или напомнить о цели. Персонаж помогает сделать это теплее и выразительнее.
 
-The strongest product value of characters is not decoration. It is translation. A parent already has an intention: ask for help, support a habit, offer a contract, recognize effort, or remind about a goal. A character translates that intention into a tone the child can receive more easily. This is why characters belong in the product model, not only in marketing copy. They shape how agreements feel.
-
-At the same time, character usage should be measured. If every ordinary request becomes dramatic fantasy, the child may stop trusting the tone. A character works best when it makes the situation clearer, warmer or more motivating. If it makes the situation less clear, the adult should use direct identity instead.
+При этом персонажей нужно использовать умеренно. Если каждая обычная просьба превращается в драматическую сказку, ребенок перестает доверять тону. Персонаж работает лучше всего там, где он делает ситуацию яснее, теплее или мотивирующей. Если он делает ситуацию менее ясной, взрослому лучше говорить напрямую.
 
 ## 3. What characters are not
 
-Characters are not separate real users. They are not public accounts. They are not a way for unknown adults to contact children. They are not a way to hide responsibility from the system. They are not a manipulative tool. They are not AI agents acting independently. They are not a public marketplace of identities.
+Персонажи не являются отдельными реальными пользователями. Они не являются публичными аккаунтами. Они не являются способом дать неизвестному взрослому доступ к ребенку. Они не являются способом скрыть ответственность от системы. Они не являются манипулятивным инструментом. Они не являются автономными ИИ-агентами, которые сами действуют от имени взрослого. Они не являются публичным рынком персонажей.
 
-The family may enable child-facing fantasy mode. A younger child may see a message from Santa Claus or Wizard and enjoy the story. But the system must still keep audit and real author. Parent-facing views must show enough accountability: real adult, character used, payer, reward obligation, and history of actions.
+Семья может включить фантазийный режим для ребенка, если это подходит возрасту и стилю общения. Младший ребенок может видеть сообщение от Деда Мороза и воспринимать его как часть игры. Но система все равно должна хранить аудит и реального автора. В родительском интерфейсе должны быть видны реальный взрослый, использованный персонаж, плательщик, обязательство по награде и история действий.
 
-Characters must not create unsafe ambiguity. If a task arrives from a character, it must still be created by an approved adult or allowed family flow. If a contract is proposed by a character, the real adult or approved payer is still responsible. If a reward is delayed, the character cannot be used as a mask to avoid responsibility.
+Персонаж не должен создавать опасную неоднозначность. Если задача пришла от персонажа, она все равно должна быть создана одобренным взрослым или разрешенным семейным процессом. Если контракт предложен персонажем, реальный взрослый или явно утвержденный плательщик отвечает за награду. Если награда задержана, персонаж не может быть маской, за которой взрослый прячется от обещания.
 
-Characters are also not a replacement for parenting. They can help adults phrase a request, but the adult remains responsible for the request, the tone, the reward and the conversation around it.
-
-A character also should not be used to say something an adult would not be willing to say directly. If the message contains pressure, threat, shame or unclear consequences, putting a friendly avatar on it does not make it acceptable. The character layer should raise the quality of communication, not soften unsafe communication enough to pass through.
+Персонаж также не заменяет родительство. Он помогает взрослому сформулировать просьбу, но взрослый отвечает за саму просьбу, тон, награду и разговор вокруг нее. Если взрослый не готов сказать смысл сообщения напрямую, не нужно прятать его за аватаром.
 
 ## 4. Adult user vs character
 
-An adult user is an authenticated real person in the family system. This can be Parent Owner or Trusted Adult. The adult has permissions, settings, responsibility and audit history. A character is a presentation layer. It changes how a message appears to the child, not who is responsible.
+Взрослый пользователь — это реальный аутентифицированный человек в семейной системе. Это может быть Parent Owner или доверенный взрослый. У взрослого есть права, настройки, история действий и ответственность. Персонаж — это слой представления. Он меняет то, как сообщение выглядит для ребенка, но не меняет того, кто отвечает за действие.
 
-One adult can act as Father, Santa Claus, Robot or Wizard. The child may see the character. The system must store real adult id internally. Parent Owner can review character use and understand which adult sent which task, contract, reward or message.
+Один взрослый может действовать как Папа, Дед Мороз, Робот или Волшебник. Ребенок может видеть персонажа. Система должна хранить реального взрослого автора внутри. Parent Owner должен иметь возможность просмотреть, какой взрослый отправил задачу, контракт, награду или сообщение через конкретного персонажа.
 
-This document does not define database schema. It defines the product rule: character identity and real adult identity must be separate concepts. The product can show a playful layer to the child while keeping accountability in parent-facing and internal records.
+Этот документ не задает схему базы данных. Он задает продуктовое правило: идентичность персонажа и идентичность реального взрослого должны быть разными понятиями. Продукт может показывать ребенку игровой слой и одновременно сохранять внутреннюю правду для безопасности, аудита и разрешения спорных ситуаций.
 
-This distinction is essential for safety. If the product only stores character name, then accountability is lost. If it only shows real adult name and never supports character tone, the product loses emotional differentiation. The correct model supports both: child-facing story and internal truth.
+Это различие критично. Если система хранит только имя персонажа, ответственность теряется. Если система показывает только реального взрослого и не поддерживает персонажей, продукт теряет эмоциональное отличие. Правильная модель поддерживает оба уровня: историю для ребенка и ответственность для взрослых.
 
 ## 5. Multiple characters per adult
 
-One adult may have multiple personas. Different family moments need different tone. A direct father tone works for real help: "Помоги мне помыть машину". Santa can be rare and magical. Robot can be structured and useful for health or activity. Wizard can be educational and focused on non-money rewards.
+Один взрослый может иметь несколько ролей. Разные семейные ситуации требуют разного тона. Прямой тон отца подходит для реальной помощи: "Помоги мне помыть машину". Дед Мороз подходит для редких и волшебных миссий. Робот подходит для активности, шагов и привычек. Волшебник подходит для обучения, чтения и немонетарных наград.
 
-Character choice should be intentional. The adult should choose a character because it helps the child understand or enjoy the task, not because it hides pressure. If the task is serious, sensitive or emotionally difficult, direct adult tone may be better.
+Выбор персонажа должен быть осознанным. Взрослый выбирает персонажа не для того, чтобы спрятать давление, а чтобы помочь ребенку лучше понять или принять задачу. Если ситуация серьезная, чувствительная или эмоционально сложная, прямой тон взрослого часто лучше фантазийного.
 
-Example:
+Пример:
 
 ```text
 Adult:
@@ -107,103 +105,103 @@ Characters:
 🧙 Волшебник
 ```
 
-Multiple characters per adult also support different currencies and reward styles. The same adult can pay rubles directly as Father, give снежинки as Santa, give энергоядра as Robot, or give кристаллы as Wizard. The product must still make the payer explicit.
+Несколько персонажей у одного взрослого помогают разделять стиль, валюты и типы наград. Один и тот же взрослый может платить рублями как Папа, давать снежинки как Дед Мороз, выдавать энергоядра как Робот или кристаллы как Волшебник. Но продукт всегда должен явно показывать плательщика.
 
-Multiple characters should not overload the child. If too many characters exist, the story becomes noisy. The product should help families start with a small set and add more only when useful.
+Слишком большое количество персонажей может перегрузить ребенка. Если в семье десять разных образов, история становится шумной. Продукт должен помогать начать с небольшого набора и расширять его только тогда, когда это действительно помогает семье.
 
 ## 6. Child-facing identity and internal accountability
 
-Child-facing identity can be character. Internal accountability is always real adult. Every task, contract, reward obligation and reminder must know who created it. Every paid reward must know who pays. If a character promises reward, real adult or approved payer is responsible.
+Child-facing identity может быть персонажем. Internal accountability всегда остается за реальным взрослым. Каждая задача, контракт, награда, напоминание и обязательство по награде должны знать, кто создал действие. Каждая денежная награда должна знать, кто является плательщиком. Если персонаж обещает награду, реальный взрослый или утвержденный плательщик отвечает за выполнение.
 
-Child-facing mode can be simplified. A younger child may only need to see "🎅 Дед Мороз" and the mission. Parent-facing mode must show enough accountability: real author, payer, created time, approval status and reward fulfillment status.
+Детский режим может быть упрощенным. Младшему ребенку может быть достаточно увидеть "🎅 Дед Мороз" и миссию. Родительский режим должен показывать больше: реального автора, плательщика, время создания, статус подтверждения и статус исполнения награды.
 
-This separation protects trust. The child gets story and warmth. The parent gets audit and responsibility. The system gets clear ownership. If a dispute happens, the family can see what was promised and who promised it.
+Такое разделение защищает доверие. Ребенок получает историю и тепло. Родитель получает аудит и ответственность. Система получает ясное владение действием. Если возникает спор, семья может увидеть, что было обещано и кем.
 
-A character cannot create a task by itself. A character cannot pay by itself. A character cannot approve completion by itself. These actions belong to adults or approved family flows. The character is how the action is presented.
+Персонаж не может сам создать задачу. Персонаж не может сам заплатить. Персонаж не может сам подтвердить выполнение. Эти действия принадлежат взрослым или разрешенным семейным процессам. Персонаж — это способ представить действие.
 
-The audit trail should be understandable at product level even before any technical model is designed. A parent should be able to answer simple questions: which adult used this character, what did they send, what reward did they promise, was the reward fulfilled, and did the child see a clear version of the terms? If the product cannot answer these questions, character mode becomes unsafe.
+Аудит должен быть понятен на продуктовом уровне еще до технического дизайна. Родитель должен иметь возможность ответить на простые вопросы: какой взрослый использовал персонажа, что он отправил, какую награду обещал, была ли награда исполнена, видел ли ребенок понятные условия. Если продукт не отвечает на эти вопросы, режим персонажей небезопасен.
 
-For the child, accountability can be shown with different levels of detail. A younger child may only need a simple statement that the family knows who sent the mission. An older child may need a more explicit display: \"Sent by Dad as Robot X-17.\" This is an age and family preference, but the system must support the underlying truth.
+Для ребенка уровень раскрытия может отличаться по возрасту. Младшему ребенку достаточно знать, что миссия пришла из семьи. Старшему ребенку может быть важно видеть: "Отправлено папой как Робот X-17". Это настройка семьи и возраста, но система всегда должна поддерживать внутреннюю правду.
 
 ## 7. Character permissions
 
-Not every adult can use every character. Parent Owner controls permissions. Trusted Adult may use only approved characters. Some characters may be family-wide. Some may be private to one adult. Some may require approval before sending tasks or contracts.
+Не каждый взрослый может использовать каждого персонажа. Parent Owner управляет правами. Доверенный взрослый может использовать только утвержденных персонажей. Некоторые персонажи могут быть общими для семьи. Некоторые могут принадлежать одному взрослому. Некоторые могут требовать подтверждения перед отправкой задач или контрактов.
 
-Examples:
+Примеры:
 
-- Grandmother can use "Бабушка".
-- Grandmother cannot use "Папа".
-- Trusted adult may be allowed to create tasks but not contracts.
-- Trusted adult may be allowed to send rewards only up to a limit.
+- бабушка может использовать "Бабушка";
+- бабушка не может использовать "Папа";
+- доверенный взрослый может создавать задачи, но не контракты;
+- доверенный взрослый может обещать награды только до согласованного лимита.
 
-Character permission is a safety boundary. If a trusted adult can use any character, the child may misunderstand who is speaking. If the adult can promise unlimited rewards through a character, payment obligations can become unclear. The product must make permissions explicit.
+Права персонажа — это граница безопасности. Если доверенный взрослый может использовать любого персонажа, ребенок может неправильно понять, кто говорит. Если взрослый может обещать неограниченные награды через персонажа, обязательства становятся неясными. Продукт должен делать права явными.
 
-Some characters may be family-wide, such as Robot or Wizard. Even then, the real adult behind each action must be stored. If both parents can use Robot, a parent-facing audit view must show which parent used Robot for a specific task.
+Некоторые персонажи могут быть общими, например Робот или Волшебник. Даже в этом случае родительский аудит должен показывать, какой взрослый использовал общего персонажа для конкретной задачи.
 
-Permissions should be simple by default. Advanced permission rules can come later. The first principle is clear: no adult uses a character unless the family owner allows it.
+Права должны быть простыми по умолчанию. Сложные правила можно добавить позже. Первый принцип: взрослый не использует персонажа, если семья этого не разрешила.
 
-Permissions should also protect the adult. A trusted adult should not accidentally create obligations they did not understand. If a character has a currency, reward style or generosity setting, the adult using that character needs to know what they are promising. This is especially important for paid tasks and contracts. A playful character can still create a real obligation.
+Права также защищают взрослого. Доверенный взрослый не должен случайно создать обязательство, которое он не понял. Если у персонажа есть валюта, стиль наград или щедрость, взрослый должен понимать, что он обещает. Это особенно важно для платных задач и контрактов.
 
 ## 8. Character tone and style
 
-Tone affects wording. Style affects emotional feel. Character should not change factual conditions. Tone must not hide penalties or obligations. Child should understand actual task or contract terms even when the message is playful.
+Тон влияет на формулировку. Стиль влияет на эмоциональное ощущение. Персонаж не должен менять фактические условия. Тон не должен скрывать штрафы, награды, сроки, подтверждение или обязательства. Ребенок должен понимать реальные условия задачи или контракта, даже если сообщение написано игровым языком.
 
 ### Santa tone
 
-Warm, rare, magical. Santa is useful for special missions, seasonal events and generous rewards. Santa should not appear so often that the character loses meaning or starts to feel like a manipulation tool.
+Теплый, редкий, волшебный. Дед Мороз подходит для особых миссий, сезонных задач и щедрых наград. Он не должен появляться слишком часто, иначе редкость потеряет смысл и образ может начать ощущаться как манипуляция.
 
 ### Robot tone
 
-Short, structured, mission-like. Robot is useful for health, activity, steps, routines and clear progress. Robot can make habits feel precise without sounding emotional or dramatic.
+Короткий, структурный, похожий на миссию. Робот подходит для шагов, здоровья, привычек и понятного прогресса. Он может делать повторяемые действия точными, но без эмоционального давления.
 
 ### Wizard tone
 
-Educational, mysterious, non-money rewards. Wizard can give кристаллы, explain learning missions and support privileges or family events. Wizard should feel curious and kind, not confusing.
+Обучающий, немного загадочный, связанный с немонетарными наградами. Волшебник может выдавать кристаллы, поддерживать чтение и объяснять задания, связанные с привилегиями или семейными событиями.
 
 ### Father tone
 
-Direct, personal, real-family request. Father is useful when honesty and closeness matter more than fantasy. A child may appreciate directness when the task is clearly a real request from the adult.
+Прямой, личный, семейный. Папа подходит, когда важнее честность и близость, чем фантазия. Ребенок может лучше принять прямую просьбу, если понимает, что взрослому действительно нужна помощь.
 
-Tone must never obscure the basics: what to do, deadline, proof, reward, penalty if any, and who is responsible. If the tone makes terms less clear, it should be simplified.
+Тон не должен скрывать главное: что сделать, до какого срока, какая награда, нужно ли подтверждение, есть ли штраф и кто отвечает. Если тон делает условия менее ясными, его нужно упростить.
 
-Tone also affects trust over time. If Robot is always precise, the child learns that Robot missions are predictable. If Wizard is always educational, the child learns that Wizard tasks are about learning and privileges. If Santa is rare and warm, the child learns that Santa missions are special. Consistency helps characters feel real without making them unsafe.
+Тон также формирует доверие со временем. Если Робот всегда точный, ребенок понимает, что миссии Робота предсказуемы. Если Волшебник всегда обучающий, ребенок понимает, что задания Волшебника связаны с развитием и привилегиями. Последовательность делает персонажей живыми без потери безопасности.
 
 ## 9. Character economy
 
-A character can have its own economy. This economy may include currency, reward type, generosity and rarity. Santa may be generous but rare. Robot may reward small healthy habits often. Wizard may give crystals for privileges. Father may pay in rubles directly.
+У персонажа может быть своя экономика. Она может включать валюту, тип награды, щедрость и редкость. Дед Мороз может быть щедрым, но редким. Робот может часто давать маленькие награды за здоровые привычки. Волшебник может выдавать кристаллы для привилегий. Папа может платить рублями напрямую.
 
-Character economy must follow Family Economy rules. Exchange and currencies are parent-controlled. No gambling-like loops. No random loot-style appearances by default. No hidden deductions. No unclear conversion from character currency to real money.
+Экономика персонажа должна следовать правилам Economy Bible. Обмен и валюты контролируются родителями. Нельзя создавать механики, похожие на азартные. Нельзя использовать случайные лут-механики по умолчанию. Нельзя скрывать списания. Нельзя делать непонятное превращение валюты персонажа в реальные деньги.
 
-A character economy should support story and engagement. It should help the child understand why this reward exists. Robot gives энергоядра because it is about movement. Wizard gives кристаллы because it is about privileges or learning. Santa gives снежинки because it is magical and rare.
+Экономика персонажа должна поддерживать историю и вовлеченность. Ребенок понимает, что Робот дает энергоядра, потому что это связано с движением. Волшебник дает кристаллы, потому что это связано с обучением и привилегиями. Дед Мороз дает снежинки, потому что это редкий и волшебный образ.
 
-Detailed economy rules are defined in [0201_Economy_Overview_t1.md](../02_Economy_Bible/0201_Economy_Overview_t1.md).
+Подробные правила экономики описаны в [0201_Economy_Overview_t1.md](../02_Economy_Bible/0201_Economy_Overview_t1.md).
 
 ## 10. Character currencies
 
-A character can issue a currency. Currency may be exchangeable or non-exchangeable. Currency can be spend-only. Some currencies may only fund goals or privileges.
+Персонаж может выпускать валюту. Валюта может быть обменной или необменной. Она может быть только расходуемой. Некоторые валюты могут использоваться только для целей или привилегий.
 
-Examples:
+Примеры:
 
 ```text
 🎅 Снежинки
-Can be exchanged for rubles if parents allow.
+Можно обменять на рубли, если родители разрешили.
 
 🤖 Энергоядра
-Used for movement and health missions.
+Используются для миссий движения и здоровья.
 
 🧙 Кристаллы
-Can buy privileges, not rubles.
+Можно потратить на привилегии, но нельзя обменять на рубли.
 ```
 
-Character currency should be understandable. If a child earns 20 энергоядер, they should know what those are for. If кристаллы cannot be exchanged for rubles, this must be clear. If снежинки can be exchanged, the rate and approval flow must follow family economy rules.
+Валюта персонажа должна быть понятной. Если ребенок получил 20 энергоядер, он должен понимать, где их можно использовать. Если кристаллы нельзя обменять на рубли, это должно быть видно. Если снежинки можно обменять, курс и подтверждение взрослого должны следовать правилам семейной экономики.
 
-Currency should not make character mode feel like a casino. It should not create random rewards or unpredictable conversion by default. It should make family learning more vivid.
+Валюта не должна превращать режим персонажей в казино. Она не должна создавать случайные награды или непредсказуемый обмен по умолчанию. Ее задача — сделать обучение ценности более живым.
 
 ## 11. Character generosity and rarity
 
-Generosity means typical reward amount or value. Rarity means how often character appears. These are product concepts, not necessarily database fields yet. They help children feel character personality.
+Щедрость — это типичный размер или ценность награды. Редкость — это частота появления персонажа. Это продуктовые понятия, не обязательно поля будущей базы данных. Они помогают ребенку ощущать характер персонажа.
 
-Examples:
+Примеры:
 
 ```text
 🎅 Дед Мороз
@@ -219,17 +217,17 @@ Generosity: non-money
 Rarity: medium
 ```
 
-Rarity must not create gambling-like compulsion. The product should not train the child to constantly check whether a rare character appeared. No random loot-style appearance by default. Parents control character availability.
+Редкость не должна создавать навязчивую проверку. Продукт не должен приучать ребенка постоянно проверять, не появился ли редкий персонаж. Никаких случайных лут-механик по умолчанию. Родители контролируют доступность персонажей.
 
-Generosity should also be controlled. A generous character can create large reward obligations. If Santa promises too much too often, the family economy becomes hard to manage. Parent-facing tools should help adults see the cost and obligation impact of character use.
+Щедрость тоже должна контролироваться. Щедрый персонаж может создавать большие обязательства по наградам. Если Дед Мороз слишком часто обещает крупные награды, семейная экономика становится трудной для управления. Родительский интерфейс должен помогать видеть стоимость и последствия таких обещаний.
 
-Rarity should be explained through family context, not chance addiction. Santa can be rare because the family uses him for holidays or special milestones. Robot can be frequent because daily movement is a habit. Wizard can be medium rarity because learning missions happen several times a week. These patterns are understandable and parent-controlled. They are different from random surprise mechanics that train the child to keep checking the app.
+Редкость лучше объяснять семейным контекстом, а не случайностью. Дед Мороз редкий, потому что семья использует его для праздников. Робот частый, потому что движение — ежедневная привычка. Волшебник появляется несколько раз в неделю, потому что связан с обучением. Это понятные, контролируемые взрослыми паттерны.
 
 ## 12. Character reputation
 
-Character can have reputation separate from adult. Adult reputation still exists. Character reputation may be child-facing. Adult reputation may be parent-facing. Reputation should not shame. It should describe reliability.
+У персонажа может быть репутация, отдельная от взрослого. Репутация взрослого при этом тоже существует. Репутация персонажа может быть видна ребенку в упрощенном виде. Репутация взрослого может быть подробнее показана в Parent App. Репутация не должна стыдить. Она должна описывать надежность.
 
-Examples:
+Примеры:
 
 ```text
 🎅 Дед Мороз обычно выполняет обещания быстро.
@@ -237,54 +235,50 @@ Examples:
 🧙 Волшебник чаще дает привилегии, а не деньги.
 ```
 
-Delayed reward obligations affect character and adult trust. If Santa promises rewards but the adult behind Santa delays payment, the child experiences Santa as unreliable. The product must not hide this. It can show simplified character reliability to the child and more detailed adult responsibility to the parent.
+Задержанные обязательства по наградам влияют на доверие к персонажу и взрослому. Если Дед Мороз обещал награду, но взрослый за ним задерживает выплату, ребенок воспринимает Деда Мороза как менее надежного. Продукт не должен это скрывать.
 
-Reputation supports fairness. It helps the family talk about promises. It should not become a public ranking, shame label or punishment mechanic. Character reputation is a trust signal, not a moral judgment.
+Репутация поддерживает справедливость. Она помогает семье говорить об обещаниях. Она не должна становиться публичным рейтингом, ярлыком или механизмом наказания. Репутация персонажа — это сигнал доверия, а не моральная оценка.
 
 ## 13. Character templates
 
-Templates help families start quickly. A parent should not need to design every character from zero. Default templates can provide safe tone, avatar suggestion, default currency, reward style and rarity.
+Шаблоны помогают семье быстро начать. Родителю не нужно создавать каждого персонажа с нуля. Шаблоны по умолчанию могут включать безопасный тон, аватар, валюту по умолчанию, стиль наград и редкость.
 
-Templates should be editable. A family may want Santa to use снежинки, another may want Santa to use only gifts or family events. Robot can be strict in one family and funny in another. Wizard can focus on learning or privileges.
+Шаблоны должны быть редактируемыми. Одна семья может захотеть, чтобы Дед Мороз выдавал снежинки. Другая — чтобы он давал только подарки или семейные события. Робот может быть строгим в одной семье и смешным в другой. Волшебник может быть связан с чтением или привилегиями.
 
-Templates should be safe by default. They should avoid manipulative language, unsafe promises, hidden penalties, public identity, unknown adult access or AI autonomy. Family can disable templates.
+Шаблоны должны быть безопасными по умолчанию. Они не должны содержать манипулятивный язык, небезопасные обещания, скрытые штрафы, публичную идентичность, доступ неизвестных взрослых или автономность ИИ. Семья может отключить шаблоны.
 
-A template is not a global public character marketplace. It is a local starting point inside the family product.
-
-Templates should also make safe defaults easier than unsafe customization. The easiest path should be a character with respectful language, clear task structure, no hidden penalties, no unknown adult access and parent-controlled rewards. If a family wants more advanced behavior, they can configure it deliberately. The default path should protect families that do not want to think through every edge case.
+Шаблон — это не публичный рынок персонажей. Это локальная стартовая точка внутри семейного продукта.
 
 ## 14. Default character examples
 
-| Character | Tone | Best use | Reward style | Safety note |
+| Персонаж | Тон | Лучшее применение | Стиль наград | Замечание по безопасности |
 | --- | --- | --- | --- | --- |
-| Father | Direct, personal | Real help, family requests | Rubles, privileges, recognition | Clear real adult identity. |
-| Mother | Warm, practical | Daily routines, care tasks | Rubles, recognition, family activities | Clear real adult identity. |
-| Santa Claus | Magical, rare | Special missions, seasonal tasks | Snowflakes, gifts, goal contributions | Rare and parent-controlled. |
-| Robot | Structured, mission-like | Steps, health habits, routines | Energy cores, streaks, small rewards | No pressure-first language. |
-| Wizard | Educational, mysterious | Learning, reading, non-money rewards | Crystals, privileges, family events | Must keep terms clear. |
-| Dragon | Energetic, challenge-like | Courage tasks, cleanup missions | Badges, crystals, progress | Avoid frightening tone. |
-| Grandmother | Caring, family-centered | Poems, reading, family help | Rubles, gifts, recognition | Trusted adult permissions required. |
-| Coach | Motivating, clear | Exercise, sports, consistency | Activity points, recognition | Avoid shame or body pressure. |
+| Отец | Прямой, личный | Реальная помощь, семейные просьбы | Рубли, привилегии, признание | Реальный взрослый должен быть понятен. |
+| Мама | Теплый, практичный | Ежедневные привычки, забота, домашние задачи | Рубли, признание, семейные события | Реальный взрослый должен быть понятен. |
+| Дед Мороз | Волшебный, редкий | Особые миссии, сезонные задачи | Снежинки, подарки, вклад в цели | Редкий и контролируемый родителями. |
+| Робот | Структурный, похожий на миссию | Шаги, здоровые привычки, рутины | Энергоядра, серии, небольшие награды | Без языка давления. |
+| Волшебник | Обучающий, загадочный | Обучение, чтение, немонетарные награды | Кристаллы, привилегии, семейные события | Условия должны оставаться ясными. |
+| Дракон | Энергичный, похожий на вызов | Смелые задачи, миссии уборки | Значки, кристаллы, прогресс | Избегать пугающего тона. |
+| Бабушка | Заботливый, семейный | Стихи, чтение, семейная помощь | Рубли, подарки, признание | Нужны права доверенного взрослого. |
+| Тренер | Мотивирующий, ясный | Упражнения, спорт, регулярность | Баллы активности, признание | Избегать стыда и давления на тело. |
 
-Default characters should be optional. Families can use only direct adult identity if they prefer. The product should not assume every family wants fantasy.
+Персонажи по умолчанию должны быть опциональными. Семья может использовать только прямую идентичность взрослого, если ей так удобнее. Продукт не должен считать, что каждой семье нужна фантазия.
 
 ## 15. Custom characters
 
-Parent can create custom character with name, avatar, tone, currency and reward style. Custom characters should be family-only. A custom character must be tied to real adult or family owner. Parent Owner may approve custom characters before they can send tasks or contracts.
+Родитель может создать пользовательского персонажа: имя, аватар, тон, валюту и стиль наград. Пользовательский персонаж должен существовать только внутри семьи. Он должен быть связан с реальным взрослым или Parent Owner. Parent Owner может подтверждать пользовательских персонажей до того, как они смогут отправлять задачи или контракты.
 
-Custom characters should avoid impersonating real external people. A family should not create a character that makes a child believe an unknown real person is contacting them. The product should avoid unsafe or frightening characters, especially for younger children.
+Нельзя использовать пользовательских персонажей для имитации реальных внешних людей. Семья не должна создавать образ, который заставляет ребенка думать, что с ним говорит неизвестный реальный человек. Продукт должен избегать небезопасных или пугающих персонажей, особенно для младших детей.
 
-Custom character settings should remain understandable. If a parent creates "Space Captain", the product should ask: who controls this character, what tone does it use, what rewards can it promise, what currency does it use, and who pays?
+Настройки персонажа должны быть понятными. Если родитель создает "Космического капитана", продукт должен помочь ответить: кто управляет этим персонажем, какой тон он использует, какие награды может обещать, какую валюту использует и кто платит.
 
-Custom characters add emotional flexibility, but also require guardrails. The more customizable the product becomes, the more important audit and permission controls become.
-
-The product should help parents create characters that are understandable to children. A custom character should have a clear role: helper, coach, storyteller, direct family member, learning guide. If a custom character has no clear role, it may create noise. If it has a frightening or overly controlling role, it may harm trust. Character creation should therefore ask not only \"what is the name?\" but also \"when should this character be used?\"
+Пользовательские персонажи дают эмоциональную гибкость, но требуют защитных ограничений. Чем больше свободы настройки, тем важнее аудит и права доступа.
 
 ## 16. Characters in tasks
 
-A simple task can be shown through character. Task conditions remain clear. Character text should not hide deadline, reward or proof. The child sees mission-like text, but the task remains a family agreement.
+Простая задача может быть показана через персонажа. Условия задачи остаются ясными. Текст персонажа не должен скрывать срок, награду или подтверждение. Ребенок видит миссию, но задача остается семейной договоренностью.
 
-Example:
+Пример:
 
 ```text
 🤖 Робот X-17
@@ -299,17 +293,15 @@ Example:
 20 энергоядер.
 ```
 
-Characters are especially useful for tasks that might otherwise feel repetitive. They can make a daily step goal, room cleanup or reading task feel more specific and intentional.
+Персонажи особенно полезны для повторяющихся задач. Они могут сделать ежедневные шаги, уборку комнаты или чтение более конкретными и осмысленными.
 
-The product should still show task essentials in structured form. If the character text says "special mission", the screen still needs task, deadline, reward and required proof. Story is additive, not a replacement for clarity.
-
-This matters for implementation later. A future screen should not rely only on a generated character paragraph. It should separate expressive text from structured task facts. The child can enjoy the paragraph, but the family agreement must remain readable even if the character text is ignored.
+Будущий экран не должен полагаться только на сгенерированный абзац персонажа. Нужно отделять выразительный текст от структурированных фактов задачи. Ребенок может наслаждаться историей, но семейная договоренность должна оставаться читаемой даже без нее.
 
 ## 17. Characters in contracts
 
-A character can propose contract. Contract must still show terms. Penalties must be visible before signing. Fantasy tone cannot hide real conditions.
+Персонаж может предложить контракт. Контракт все равно должен показывать условия. Штрафы должны быть видны до подписания. Фантазийный тон не может скрывать реальные условия.
 
-Example:
+Пример:
 
 ```text
 🎅 Дед Мороз
@@ -327,17 +319,17 @@ Example:
 Принять контракт?
 ```
 
-Characters in contracts require extra care because contracts last longer and may include penalties or reward obligations. The child must understand what they accept. A playful button can exist, but it should still mean clear acceptance.
+В контрактах персонажи требуют особой осторожности, потому что контракт длится дольше и может включать штрафы или обязательства по наградам. Ребенок должен понимать, что он принимает. Игровая кнопка может существовать, но ее смысл должен быть ясным.
 
-Detailed task and contract rules are defined in [0301_Tasks_vs_Contracts_t1.md](../03_Contracts_Bible/0301_Tasks_vs_Contracts_t1.md).
+Для контрактов текст персонажа обычно должен быть короче и структурнее, чем для простых задач. Персонаж может тепло представить контракт, но условия должны быть показаны в стабильном, простом формате.
 
-For contracts, character tone should usually be shorter and more structured than for simple tasks. A contract is not only a story. It contains conditions, duration, reward, possible penalty and responsibility. A character can introduce the contract warmly, but the terms should be displayed in a stable, plain format.
+Подробные правила задач и контрактов описаны в [0301_Tasks_vs_Contracts_t1.md](../03_Contracts_Bible/0301_Tasks_vs_Contracts_t1.md).
 
 ## 18. Characters and trusted adults
 
-Trusted adults may have their own characters. Family owner controls access. Child cannot be contacted by unknown adults through character. Trusted adult task or contract creator must remain auditable. Payer must be explicit.
+Доверенные взрослые могут иметь своих персонажей. Parent Owner управляет доступом. Ребенок не может получать сообщения от неизвестных взрослых через персонажа. Создатель задачи или контракта должен оставаться видимым для аудита. Плательщик должен быть явным.
 
-Example:
+Пример:
 
 ```text
 👵 Бабушка
@@ -348,96 +340,94 @@ Example:
 100 ₽
 ```
 
-A trusted adult can be allowed to use direct identity only, or a limited set of characters. For example, grandmother can use "Бабушка" but not "Папа". She may be allowed to create tasks but not contracts. She may be allowed to promise rewards only up to a family-defined limit.
+Доверенному взрослому можно разрешить только прямую идентичность или ограниченный набор персонажей. Например, бабушка может использовать "Бабушка", но не "Папа". Она может создавать задачи, но не контракты. Она может обещать награды только до семейного лимита.
 
-Trusted adult character permissions are safety features. They prevent confusion and keep responsibility clear.
-
-Trusted adult scenarios are emotionally sensitive because the child may already trust the person outside the app. The product should not make that trust vague. If Grandmother sends a task, the child should not wonder whether it was actually Grandmother, Parent Owner or an unknown person using a grandmother-like character. Family approval and audit make this clear.
+Сценарии с доверенными взрослыми эмоционально чувствительны. Ребенок уже может доверять человеку вне приложения. Продукт не должен делать это доверие расплывчатым. Если бабушка отправила задачу, ребенок не должен сомневаться, была ли это бабушка, Parent Owner или неизвестный человек с похожим персонажем.
 
 ## 19. Characters and AI helper
 
-Future AI may help generate character text. AI should be helper, not autonomous adult. AI cannot send tasks or contracts without approved adult action. AI cannot decide reward, penalty or approval independently. AI-generated text must preserve factual task or contract terms.
+В будущем ИИ может помогать генерировать текст в стиле персонажа. ИИ должен быть помощником, а не автономным взрослым. ИИ не может отправлять задачи или контракты без действия утвержденного взрослого. ИИ не может самостоятельно решать награду, штраф или подтверждение результата. Сгенерированный текст должен сохранять фактические условия задачи или контракта.
 
-Adult writes:
+Взрослый пишет:
 
 ```text
 Убрать комнату до вечера, 40 снежинок.
 ```
 
-AI helper suggests Santa style:
+ИИ-помощник предлагает стиль Деда Мороза:
 
 ```text
 🎅 Хо-хо-хо! У меня есть для тебя особая миссия...
 ```
 
-Adult approves before sending.
+Взрослый подтверждает перед отправкой.
 
-AI style helper can save time and make character tone consistent. But it cannot impersonate unknown adults, invent obligations, add hidden penalties or change reward. If AI suggests text that changes facts, the adult must reject or edit it.
+ИИ может экономить время и помогать держать стиль персонажа. Но он не может изображать неизвестного взрослого, придумывать обязательства, добавлять скрытые штрафы или менять награду. Если ИИ меняет факты, взрослый должен отклонить или исправить текст.
 
 ## 20. Safety and ethics
 
-Characters are playful but powerful. A child may emotionally respond to a character more strongly than to a normal interface. Product must avoid manipulation. Fantasy mode should be parent-controlled. Older children may prefer transparency. Family decides level of character and fantasy.
+Персонажи игровые, но сильные. Ребенок может эмоционально реагировать на персонажа сильнее, чем на обычный интерфейс. Продукт должен избегать манипуляции. Фантазийный режим должен контролироваться родителями. Старшие дети могут предпочитать прозрачность. Семья решает уровень персонажей и фантазии.
 
-System always stores real adult. No unknown adult access. No public chat. No public character marketplace. No deception for payments or penalties. Sensitive topics should use direct adult tone, not fantasy. A serious conflict, health concern, punishment discussion or emotional issue should not be hidden behind a magical character.
+Система всегда хранит реального взрослого. Нет доступа неизвестных взрослых. Нет публичного чата. Нет публичного рынка персонажей. Нет обмана в выплатах или штрафах. Чувствительные темы лучше обсуждать прямым тоном взрослого, а не через фантазийного персонажа. Серьезный конфликт, вопрос здоровья, наказание или эмоциональная проблема не должны прятаться за магическим образом.
 
-Character mode should increase warmth, not reduce consent. If a child signs a contract because Santa said it magically, but they do not understand conditions, the product failed. If a character makes a task more inviting while keeping terms clear, the product works.
+Режим персонажей должен увеличивать тепло, а не уменьшать согласие. Если ребенок подписывает контракт, потому что Дед Мороз сказал это волшебно, но не понял условия, продукт провалился. Если персонаж делает задачу более привлекательной при ясных условиях, продукт работает.
 
-Ethical character design means respecting the child. The product should not exploit belief, fear, scarcity or attachment. It should use story to help the family communicate better.
+Этичный дизайн персонажей уважает ребенка. Продукт не должен эксплуатировать веру, страх, редкость или привязанность. История нужна, чтобы семья лучше общалась, а не чтобы ребенок легче соглашался на непонятные условия.
 
 ## 21. Age-appropriate character modes
 
 ### Simple character mode
 
-For younger children:
+Для младших детей:
 
-- friendly avatar;
-- short messages;
-- simple missions;
-- no complex economy.
+- дружелюбный аватар;
+- короткие сообщения;
+- простые миссии;
+- без сложной экономики.
 
-Simple character mode should show clear tasks, visual rewards and minimal text. The child does not need complex reputation, exchange rates or contract details.
+Простой режим персонажей должен показывать ясные задачи, визуальные награды и минимум текста. Ребенку не нужны сложная репутация, курсы обмена или детали контрактов.
 
 ### Story mode
 
-For children who enjoy fantasy:
+Для детей, которым нравится фантазия:
 
-- characters;
-- currencies;
-- missions;
-- goals;
-- limited contracts.
+- персонажи;
+- валюты;
+- миссии;
+- цели;
+- ограниченные контракты.
 
-Story mode can make Family Economy memorable. It should still keep terms visible and avoid hidden consequences.
+Сюжетный режим может сделать Family Economy запоминающимся. Но он все равно должен показывать условия и избегать скрытых последствий.
 
 ### Transparent mode
 
-For older children and teens:
+Для старших детей и подростков:
 
-- characters may still exist;
-- real adult identity may be more visible;
-- contracts and economy are clearer;
-- less fantasy, more responsibility.
+- персонажи могут сохраняться;
+- реальный взрослый может быть виден яснее;
+- контракты и экономика объясняются подробнее;
+- меньше фантазии, больше ответственности.
 
-Transparent mode respects maturity. Older children may enjoy characters as style, but they may also want to know exactly which adult is speaking and what the agreement means.
+Прозрачный режим уважает взросление ребенка. Старшие дети могут воспринимать персонажей как стиль, но при этом хотеть понимать, какой взрослый говорит и что означает договоренность.
 
 ## 22. MVP vs future scope
 
 | Feature | MVP | v1 | v2 | v3+ | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Direct adult identity | ✅ | ✅ | ✅ | ✅ | Required for trust and safety. |
-| Basic character selection | 🟡 | ✅ | ✅ | ✅ | Optional in MVP. |
-| Default characters | 🟡 | ✅ | ✅ | ✅ | Safe templates first. |
-| Custom characters | ⚪ | ✅ | ✅ | ✅ | Parent-controlled. |
-| Multiple characters per adult | ⚪ | ✅ | ✅ | ✅ | Clear audit required. |
-| Character-specific currency | ⚪ | 🟡 | ✅ | ✅ | Follows Economy Bible rules. |
-| Character reputation | ⚪ | 🟡 | ✅ | ✅ | No shame mechanics. |
-| Trusted adult character permissions | ⚪ | 🟡 | ✅ | ✅ | Parent Owner controls access. |
-| AI text style helper | ⚪ | ⚪ | ⚪ | ✅ | Adult approves before sending. |
-| Character avatar library | 🟡 | ✅ | ✅ | ✅ | Safe built-in avatars. |
-| Seasonal characters | ⚪ | 🟡 | ✅ | ✅ | Parent-controlled availability. |
-| Voice characters | ⚪ | ⚪ | ⚪ | 🔒 | Future/frozen. |
+| Прямая идентичность взрослого | ✅ | ✅ | ✅ | ✅ | Нужна для доверия и безопасности. |
+| Базовый выбор персонажа | 🟡 | ✅ | ✅ | ✅ | Опционально в MVP. |
+| Персонажи по умолчанию | 🟡 | ✅ | ✅ | ✅ | Сначала безопасные шаблоны. |
+| Пользовательские персонажи | ⚪ | ✅ | ✅ | ✅ | Контролируются родителями. |
+| Несколько персонажей у взрослого | ⚪ | ✅ | ✅ | ✅ | Нужен понятный аудит. |
+| Валюта персонажа | ⚪ | 🟡 | ✅ | ✅ | Следует правилам Economy Bible. |
+| Репутация персонажа | ⚪ | 🟡 | ✅ | ✅ | Без механик стыда. |
+| Права доверенного взрослого на персонажей | ⚪ | 🟡 | ✅ | ✅ | Parent Owner управляет доступом. |
+| ИИ-помощник для стиля текста | ⚪ | ⚪ | ⚪ | ✅ | Взрослый подтверждает перед отправкой. |
+| Библиотека аватаров персонажей | 🟡 | ✅ | ✅ | ✅ | Безопасные встроенные аватары. |
+| Сезонные персонажи | ⚪ | 🟡 | ✅ | ✅ | Доступность контролируется родителями. |
+| Голосовые персонажи | ⚪ | ⚪ | ⚪ | 🔒 | Будущее / frozen. |
 
-MVP should include direct adult identity and may include very basic character selection if it does not weaken safety or delay the core loop. v1 can introduce default and custom characters. v2 can deepen character economy, reputation and trusted adult permissions. v3+ can explore AI style helper, seasonal characters and voice only after safety is proven.
+MVP должен включать прямую идентичность взрослого и может включать базовый выбор персонажа, если это не ослабляет безопасность и не задерживает основной цикл. v1 может добавить персонажей по умолчанию и пользовательских персонажей. v2 может углубить экономику персонажей, репутацию и права доверенных взрослых. v3+ может рассматривать ИИ-помощника для стиля, сезонных персонажей и голосовых персонажей только после проверки безопасности.
 
 ## 23. Product examples
 
@@ -541,30 +531,30 @@ MVP should include direct adult identity and may include very basic character se
 
 ## 24. Product rules
 
-- Character is not a real user.
-- Character cannot remove adult accountability.
-- Real adult must be stored internally.
-- Payer must be explicit.
-- Trusted adults need permissions.
-- Child cannot receive character messages from unknown adults.
-- No public character marketplace.
-- No public chat.
-- Character tone cannot hide task or contract conditions.
-- Character tone cannot hide penalties.
-- Character tone cannot hide payment obligations.
-- AI cannot send as character without adult approval.
-- Character economy follows Family Economy rules.
-- Character rarity must not create gambling-like loops.
-- Sensitive topics should use direct adult tone.
+- Персонаж не является реальным пользователем.
+- Персонаж не снимает ответственность со взрослого.
+- Реальный взрослый должен храниться внутри системы.
+- Плательщик должен быть явным.
+- Доверенным взрослым нужны права доступа.
+- Ребенок не может получать сообщения от персонажей неизвестных взрослых.
+- Публичного рынка персонажей нет.
+- Публичного чата нет.
+- Тон персонажа не может скрывать условия задачи или контракта.
+- Тон персонажа не может скрывать штрафы.
+- Тон персонажа не может скрывать обязательства по выплатам.
+- ИИ не может отправлять сообщения от персонажа без подтверждения взрослого.
+- Экономика персонажа следует правилам Family Economy.
+- Редкость персонажа не должна создавать циклы, похожие на азартные механики.
+- Чувствительные темы лучше обсуждать прямым тоном взрослого.
 
 ## Open Questions
 
-- Should MVP include fantasy characters or only direct adult identity?
-- Should character mode be enabled by default or introduced during onboarding?
-- Should older children see the real adult behind a character?
-- Which default characters should ship first?
-- Should every character require a linked payer?
-- Should trusted adults be allowed to create custom characters?
-- Should character reputation be visible to children or only simplified?
-- Should AI-generated character text be allowed in MVP or later?
-- What character/avatar restrictions are needed for safety?
+- Должен ли MVP включать фантазийных персонажей или только прямую идентичность взрослого?
+- Нужно ли включать режим персонажей по умолчанию или вводить его во время onboarding?
+- Должны ли старшие дети видеть реального взрослого за персонажем?
+- Какие персонажи по умолчанию должны появиться первыми?
+- Должен ли каждый персонаж иметь связанного плательщика?
+- Нужно ли разрешать доверенным взрослым создавать пользовательских персонажей?
+- Должна ли репутация персонажа быть видна детям или только в упрощенном виде?
+- Допускать ли ИИ-сгенерированный текст персонажей в MVP или только позже?
+- Какие ограничения на персонажей и аватары нужны для безопасности?
